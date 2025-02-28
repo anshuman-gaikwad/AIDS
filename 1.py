@@ -34,7 +34,10 @@ git init
 git remote add origin linkpaste
 git remote -v
 
-git
+
+Filter Results (for open issues).
+Sprint Health Gadget (for active sprints).
+Completed Issues Gadget (for completed tasks).
 
 
 

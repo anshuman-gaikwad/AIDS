@@ -28,3 +28,15 @@ sh
 Copy
 Edit
 git push -u origin main
+
+
+git init
+git remote add origin linkpaste
+git remote -v
+
+git
+
+
+
+
+
